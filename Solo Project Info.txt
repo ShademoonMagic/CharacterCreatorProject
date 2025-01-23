@@ -1,0 +1,26 @@
+Name: Cassia French
+Stack: Java
+
+GitHub Repo link: https://github.com/ShademoonMagic/french_cassia_codingdojo_solo_project.git
+
+Project name: RPG Character Creator
+
+Project description: A website where you can create custom characters, see other people's characters, and keep them all organized. I wanted to build this because me and several of my friends have been running a fantasy roleplaying discord server, and I want to develop a full website that will allow the players within the server to more easily create their characters.
+
+MVP (Minimum Viable Product) features:
+ - Login and Registration with full validation
+ - Character creator page
+ - User profile where they can view all THEIR characters
+ - Ability to view details of ANY individual character (not just the logged in user's)
+ - Dashboard where you can view all characters across all accounts
+ - Edit and delete functionality for characters a user created
+ - Protected Routes to view profile, create character, edit and delete. Dashboard and view single character is public
+
+Bonus feature(s):
+ - Admin users that can "level up" any users characters 
+ - Dashboard has a news feed that shows recent character level-ups
+ - News feed is responsive, showing "Your character, <character name> leveled up!" instead of "<Username>'s <character name> leveled up!" for a users character
+ - Bootstrap styling across web app
+ - Ability to upload and update images for character picture 
+
+
